@@ -1,35 +1,43 @@
 Bab 1 ( 1998 )
-Bill Gates dan Microsoft : 
+Bill Gates dan Microsoft 
 Seseorang yang membuat Microsoft karena dia ingin menciptakan perangkat lunak yang dapat digunakan di PC.  
 "Bill Gates takut kepada seseorang yang selalu berinovasi".
 Bill Gates memiliki naluri setajam hewan pada bisnis. Dan menggunakan taktik untuk menghancurkan perusahaan awal.
 
-Steve Jobs dan Apple : 
+Steve Jobs dan Apple
 Seorang designer cerdas yang mendirikan sebuah perusahaan Apple yang awalnya ia diusir dari perusahaannya sendiri.
 Dengan kemampuan negosiasi ia mampu membuat Gates untuk mengembangkan MacOS untuk apple. Lalu Steve Jobs kembali ke perusahaannya dan mengembangkan ulang. Awalnya banyak masalah tetapi ia tetap bertahan agar tetap berdiri.
 
-Bill Gates dan Steve Jobs :
+Bill Gates dan Steve Jobs 
 Mereka merupakan kawan lama. Walaupun begitu Gates tidak mengetahui mengapa Jobs tetap berusaha dibidang komputasi padahal Gates sudah benar benar berada jauh di depan. 
 Walaupun demikian Bill Gates pun mengalami kesulitan karena sistem operasinya disabotase.
 Kembali kepada Jobs, ia tetap tidak menyerah dan terus mengembangkan Apple.
 
-Larry Page dan Sergey Brin :
+Larry Page dan Sergey Brin 
 Merupakan dua orang mahasiswa yang tidak kuliah lagi di universitas Stanford karena pada masa itu terjadi ledakan dot-com  dan malah mengembangkan perusahaan mereka di garasi. Yaitu mengembangkan pencarian dengan nama Google yang modalnya awalnya dari cek yang ia dapatkan dan Google pun menjadi salah satu dari situs teratas.
 
-Pencarian Internet : 
+Pencarian Internet  
 Pada masa itu Netscape yang membuat browser sedang naik, tetapi karena Gates takut terhadap mesin pencarian ia mengembangkan Internal Explorer dan membuat Internal Explorer dapat berjalan di sistem operasinya dan memblock Netscape dari Windows. Tingkahnya tersebut dijatuhi tuntutan karena memonopoli pasar. Tetapi Google tidak mempermasalahkan nya karena mereka hanya ingin seseorang dapat mengakses internet.
 
 Bab 2 ( Microsoft dan Antimonopoli )
-Steve Ballmer : 
+Steve Ballmer  
 Merupakan seseorang yang dijadikan CEO Sales and Support Operations oleh Bill Gates walaupun ia tidak memiliki kemampuan dalam memprogram. Karena pada saat itu Bill Gates harus fokus kepada urusan amal untuk menyembuhkan penyakit di berbagai negara berkembang.
 
-Persidangan Anti Monopoli : 
+Persidangan Anti Monopoli 
 Microsoft melakukan roadmap tetapi diprotes oleh anggota nya karena dianggap perusahaan gangster. Microsoft sudah dituntut dan dilakukan sidang karena monopoli.
 Mereka pun menjalani pelatihan anti monopoli dan dapat menyelesaikan masalahnya dengan cara penguasaan pasar 50-80% 
 Lalu Gates pun ingin membantu Jobs dengan Gates yang membuat sistem pemutar musik untuk Jobs, tetapi Jobs menolak dikarenakan Apple akan dikuasai Microsoft.
 Dan akhirnya Internal Explorer diberlakukan gratis pada Windows dan perusahaan perusahaan melonjak naik karena dapat memanfaatkan Internal Explorer.
 
-Dampak Persidangan : 
+Dampak Persidangan
 Yang menyidang Microsoft ingin menjebak Microsoft dengan cara membagi Microsoft menjadi dua bagian, tetapi ia ketahuan. Lalu Microsoft bekerja sama dengan Intel, dan Gates pun memecah Microsoft tetapi tetap dengan membagi data atau yang biasa disebut dengan API, terapi ia membuatnya secara publik. Lalu Microsoft mendapatkan potongan hukuman karena berkelakuan baik untuk membagikan datanya.
 
 Bab 3 ( Mesin Pencarian: Microsoft vs Google ) 
+Awal Dari Fungsi Pencarian
+Jadi awalnya mesin pencarian diduduki oleh Compaq dengan antarmuka AltaVista dengan kekuatan Alpha 64 bit. Tetapi lama lama, mesin pencarian ini mendapatkan banyak sekali spam dan iklan, walaupun begitu ini membuat Compaq tetap untung. Lalu Microsoft, Yahoo, Netscape, dan yang lainnya membuat mesin pencarian yang kurang lebih sama yaitu dengan mencari indeks dari databases. Tetapi Google memiliki sistem yang berbeda dengan mereka yaitu dengan mengurutkan halaman halaman yang disebut dengan PageRank, lalu sistem ini juga terdapat penyimpanan yang sangat besar untuk menyimpan datanya.
+
+Google 
+Google dibuat oleh dua orang mahasiswa bernama Larry Page dan Sergey Brin yaitu dua orang mahasiswa yang berasal dari Stanford University. Ia membuat mesin pencarian dengan menggunakan sistem operasi linux yang dicustom dan menghasilkan mesin pencarian bernama Google yang didukung dengan sistem PageRank dan nama tersebut dipatenkan karena diambil dari nama Larry Page yang memiliki kecepatan dan keakuratan yang baik awalnya ia menawarkannya kepada perusahaan besar seperti Yahoo tetapi pada menolak. Dan ia pun kembali ke Stanford dan mengembangkannya. Walaupun begitu Google juga mendapatkan spam dan dan iklan tetapi mereka dapat mengatasinya,  dengan tampilan Google yang sederhana. Setelah dipublikasi Google mendapatkan banyak pujian dari para pengguna di internet. Google pun semakin berkembang dan ia pun membuat mail sendiri yang dinamakan dengan G-Mail 4 tahun kemudian.
+
+Microsoft
+Terjadi setelah persidangan, Microsoft tidak mempedulikan mesin pencari karena meeka menganggap bahwa mesin pencari bukan merupakanb bisnis yang baik, sehingga Microsoft tidak mengembangkan mesin pencarinya, dan hal tersebut juga disetujui oleh banyak perusahaan. Namun kerja internet tidak demikian, yaitu bukan hanya menemukan solusi untuk user, tetapi juga memberikan user agar mereka dapat setia, sehingga apabila mesin pencari pertama telah ada maka user tidak akan menghasilkan mesin pencari yang kedua karena kesetiaan mereka. Sehingga Google pun melesat jauh.
